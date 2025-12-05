@@ -19,8 +19,33 @@ A simple and responsive e-commerce website built using **HTML, CSS, JavaScript**
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla JS)**  
-- Fetch API / AJAX for dynamic data (future backend)
+
 
 ---
 
 ## 📂 Project Structure
+
+project-folder/
+├── index.html
+├── products.html
+├── sproduct.html
+├── cart.html
+├── style.css
+├── script.js
+└── img/ 
+
+---
+
+## 🔧 How to Run the Project
+1. Download the project as ZIP or clone it:
+
+2. Open the folder.
+
+3. Simply open **index.html** in your browser.
+
+---
+Ahmed Mahmoud
+
+GitHub: https://github.com/Ahmedyjnj
+
+LinkedIn: https://www.linkedin.com/in/ahmed-mahmoud-b4a400225/
